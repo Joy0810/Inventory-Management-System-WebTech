@@ -162,7 +162,11 @@ node seed.js
 
 | Name | Role |
 |---|---|
-| Joy | Full Stack / Project Lead |
+| Joy | Backend Development & API Design |
+| Tharun | Database Design & MongoDB Integration |
+| Viadeesh | Full Stack, UI Redesign & Frontend Lead |
+| Gatri | Frontend Development & React Components |
+| Nishal | JSP Reports, Cron Job & Testing |
 
 ---
 
